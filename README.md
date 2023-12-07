@@ -10,7 +10,7 @@ Este é um programa simples que calcula o soma de números menores que o número
 
     ```bash
     git clone https://github.com/Tr-Junior/desafio.git
-    cd desafio1
+    cd desafio
     ```
 
 3. Execute o programa:
