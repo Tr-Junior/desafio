@@ -1,4 +1,4 @@
-# Calculador soma dos numeros divisiveis por 3 e 5
+# Calculador de soma dos numeros divisiveis por 3 e 5
 
 Este é um programa simples que calcula o soma de números menores que o número fornecido e divisíveis por 3 ou 5. Ele oferece duas opções: calcular apenas o soma ou calcular o soma e armazenar a memória de cálculo.
 
