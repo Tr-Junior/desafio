@@ -39,8 +39,8 @@ Este é um programa simples que calcula o soma de números menores que o número
 
 Digite um número inteiro positivo: 10
 Escolha a função:
-1 - Utilizar função que retorna apenas o valor do soma
-2 - Utilizar função que retorna o valor do soma e a memória de cálculo
+1 - Utilizar função que retorna apenas o valor da soma
+2 - Utilizar função que retorna o valor da soma e a memória de cálculo
 Opção: 1
 A soma dos números menores que 10 e divisíveis por 3 ou 5 é: 23
 
@@ -48,8 +48,8 @@ A soma dos números menores que 10 e divisíveis por 3 ou 5 é: 23
 
 Digite um número inteiro positivo: 10
 Escolha a função:
-1 - Utilizar função que retorna apenas o valor do soma
-2 - Utilizar função que retorna o valor do soma e a memória de cálculo
+1 - Utilizar função que retorna apenas o valor da soma
+2 - Utilizar função que retorna o valor da soma e a memória de cálculo
 Opção: 2
 A soma dos números menores que 10 e divisíveis por 3 ou 5 é: 23
 Memória de cálculo: [ 3, 5, 6, 9 ]
