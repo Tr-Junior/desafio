@@ -9,7 +9,7 @@ Este é um programa simples que calcula o soma de números menores que o número
 2. Clone este repositório:
 
     ```bash
-    git clone https://github.com/Tr-Junior/desafio1.git
+    git clone https://github.com/Tr-Junior/desafio.git
     cd desafio1
     ```
 
