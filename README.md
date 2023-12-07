@@ -32,9 +32,11 @@ Este é um programa simples que calcula o soma de números menores que o número
 
 - Node.js
 
-## Exemplo 1
+## Exemplo
 
 ```bash
+-1
+
 Digite um número inteiro positivo: 10
 Escolha a função:
 1 - Utilizar função que retorna apenas o valor do soma
@@ -42,11 +44,8 @@ Escolha a função:
 Opção: 1
 A soma dos números menores que 10 e divisíveis por 3 ou 5 é: 23
 
--------------------------------------------------------------------------------
+-2
 
-## Exemplo 2
-
-```bash
 Digite um número inteiro positivo: 10
 Escolha a função:
 1 - Utilizar função que retorna apenas o valor do soma
